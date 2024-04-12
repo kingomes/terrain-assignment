@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: -4
+    x: 0
     y: 53
     width: 1440
     height: 790
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -273,8 +273,8 @@ MonoBehaviour:
     y: 0
     width: 339.5
     height: 740
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -301,7 +301,7 @@ MonoBehaviour:
     m_TextWithWhitespace: "Game\u200B"
   m_Pos:
     serializedVersion: 2
-    x: -4
+    x: 0
     y: 462.5
     width: 636.5
     height: 339.5
@@ -403,7 +403,7 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: -4
+    x: 0
     y: 83
     width: 636.5
     height: 358.5
@@ -885,11 +885,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.17895976, y: -0.74061906, z: 0.21723583, w: 0.6101494}
     speed: 2
-    m_Value: {x: 0.17895827, y: -0.74061286, z: 0.21723402, w: 0.6101443}
+    m_Value: {x: -0.17895827, y: 0.74061286, z: -0.21723402, w: -0.6101443}
   m_Size:
     m_Target: 2.008678
     speed: 2
-    m_Value: -2.008678
+    m_Value: 2.008678
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1088,7 +1088,7 @@ MonoBehaviour:
     m_TextWithWhitespace: "Hierarchy\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 633.5
+    x: 637.5
     y: 83
     width: 248
     height: 719
@@ -1105,10 +1105,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 64}
-      m_SelectedIDs: 5cd8fcff
-      m_LastClickedID: -206756
-      m_ExpandedIDs: 7cfaffff
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 50faffff90faffff00fbffffc8faffff00faffff30faffffd0faffff80fafffff0faffffb8faffff88faffffe0f9ffff78faffff10faffff08faffffb0faffff70faffff98fafffff8f9ffffc8f9fffff0f9ffffa0faffffe8f9ffffc0faffffe8faffffd0f9ffffa0f9ffffd8faffff40faffff48faffff58faffff20faffffb8f9ffff60faffffb0f9ffffc0f9ffffa8fafffff8faffffa8f9ffffe0faffff68faffffd8f9ffff28faffff18faffff
+      m_LastClickedID: -1512
+      m_ExpandedIDs: 02fbffffb27c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1154,7 +1154,7 @@ MonoBehaviour:
     m_TextWithWhitespace: "Project\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 883.5
+    x: 887.5
     y: 83
     width: 211
     height: 719
@@ -1179,8 +1179,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders:
-    - Assets/Sci-Fi Styled Modular Pack/Models
+    m_Folders: []
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1191,14 +1190,15 @@ MonoBehaviour:
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/omaressa/Terrain Assignment
+  m_LastProjectPath: /Users/omaressa/Documents/GitHub/COSCA426/terrain-assignment/Terrain
+    Assignment
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: b0230000
     m_LastClickedID: 9136
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000647d0000667d0000687d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1227,21 +1227,21 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 1586.9993}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000d076000056a8000074a80000
+    m_ExpandedIDs: ffffffff00000000647d0000667d0000687d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: desk
-      m_OriginalName: desk
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 42604
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
       m_ClientGUIView: {fileID: 10}
@@ -1306,7 +1306,7 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1096.5
+    x: 1100.5
     y: 83
     width: 338.5
     height: 719
